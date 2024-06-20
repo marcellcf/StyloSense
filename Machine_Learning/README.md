@@ -10,6 +10,7 @@ The skin tone classification model categorizes the skin tone into one of four cl
 - Kuning: Light blue, Light pink, Mint green, Lavender, Peach
 - Coklat: Maroon, Mustard yellow, Olive green, Coral, Light brown
 - Hitam: Light beige, Gold, Silver, Royal blue, Magenta
+
 This approach not only helps in identifying the skin tone accurately but also enhances the user's experience by providing personalized outfit color recommendations.
 
 This is step to step to run the app on your local environment:
