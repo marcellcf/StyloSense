@@ -6,12 +6,14 @@ In our project, we use MTCNN to generate bounding boxes around faces in the inpu
 
 The skin tone classification model categorizes the skin tone into one of four classes: putih, kuning, coklat, and hitam. Based on the predicted skin tone, we recommend suitable outfit colors as follows:
 
-1. Putih: Bright red, Dark brown, Bright golden yellow, Black, Navy blue
-2. Kuning: Light blue, Light pink, Mint green, Lavender, Peach
-3. Coklat: Maroon, Mustard yellow, Olive green, Coral, Light brown
-4. Hitam: Light beige, Gold, Silver, Royal blue, Magenta
+- Putih: Bright red, Dark brown, Bright golden yellow, Black, Navy blue
+- Kuning: Light blue, Light pink, Mint green, Lavender, Peach
+- Coklat: Maroon, Mustard yellow, Olive green, Coral, Light brown
+- Hitam: Light beige, Gold, Silver, Royal blue, Magenta
 This approach not only helps in identifying the skin tone accurately but also enhances the user's experience by providing personalized outfit color recommendations.
+
 This is step to step to run the app on your local environment:
+
 
 1. After clone our repository, configure the flask app 
 ```
