@@ -39,11 +39,6 @@ pip install streamlit-webrtc==0.47.7
 flask run
 ```
 
-4. Open your browser at:
-```
-https://127.0.0.1:5000/
-```
-
 Finish, you can try uploading your image!
 
 Dataset Used: 
